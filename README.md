@@ -1,0 +1,2 @@
+# seajs
+example of seajs
